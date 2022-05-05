@@ -15,10 +15,10 @@ This repo is a quick experiment to see how it works. If done correctly, this REA
 To make it work, you need to add both images (light version and dark version) side-by-side in your readme and add a suffix to each one so that they display conditionally.
 
 ```markdown
-## Dark Theme
+## Light Theme
 ![Yoda](https://raw.githubusercontent.com/scarmuega/choose-your-side/master/yoda.svg?sanitize=true#gh-light-mode-only)
 
-## Light Theme
+## Dark Theme
 ![Vader](https://raw.githubusercontent.com/scarmuega/choose-your-side/master/vader.svg?sanitize=true#gh-dark-mode-only)
 ```
 
